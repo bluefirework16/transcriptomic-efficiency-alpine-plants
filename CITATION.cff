@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and this software release."
+title: "Analysis code for transcriptomic efficiency and growth-defense trade-offs in alpine desert plants"
+type: software
+
+authors:
+  - family-names: "Gan"
+    given-names: "Lu"
+
+repository-code: "https://github.com/bluefirework16/transcriptomic-efficiency-alpine-plants"
+
+license: MIT
+
+keywords:
+  - transcriptomics
+  - alpine desert
+  - experimental warming
+  - watering
+  - plant physiology
+  - WGCNA
+  - RNA-seq
+
+abstract: >-
+  R scripts and source data supporting analyses of physiological and
+  transcriptomic responses of alpine desert plants to experimental warming
+  and watering, including mixed-effects models, multivariate analyses,
+  physiological-transcriptomic decoupling analysis, weighted gene
+  co-expression network analysis, functional associations, and figure
+  generation.
