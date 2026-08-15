@@ -112,6 +112,9 @@ The analysis code in this repository is released under the MIT License.
 
 ## Citation
 
-If you use the code or associated datasets, please cite the accompanying article and the archived release of this repository.
+The analysis code and source data associated with this study are permanently archived in Zenodo:
 
-A permanent DOI for the archived code release will be provided through Zenodo.
+**Gan L. Analysis code for transcriptomic efficiency and growth-defense trade-offs in alpine desert plants. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.21945323**
+
+GitHub repository:  
+`https://github.com/bluefirework16/transcriptomic-efficiency-alpine-plants`
